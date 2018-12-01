@@ -361,8 +361,8 @@ html, body {
 }
 
 .jackpotDifficultyContainer div.active {
-	background: #25793B;
-	color: #59BB32;
+	background: #ff4d4d;
+	color: #660000;
 }
 
 .jackpotStats {
@@ -568,7 +568,7 @@ html, body {
 }
 
 .jackpotRightStartButton:hover {
-	background: #095839;
+	background: #ff4d4d;
 }
 
 .jackpotRightSkins {
@@ -643,7 +643,7 @@ html, body {
 	width: 64px;
 	float: left;
 	margin: 8px;
-	outline: 1px #25793B solid;
+	outline: 1px #ff4d4d solid;
 }
 
 .depositorName {
@@ -760,7 +760,7 @@ html, body {
 	width: 30px;
 	height: 30px;
 	line-height: 30px;
-	color: #2D9E71;
+	color: #ff4d4d;
 	background: #ff4d4d;
 	cursor: pointer;
 	transition: .2s;
@@ -768,7 +768,7 @@ html, body {
 
 .modalClose:hover {
 	color: #ff4d4d;
-	background: #2D9E71;
+	background: #ff4d4d;
 }
 
 /*
@@ -810,7 +810,7 @@ html, body {
 	margin: 0 auto;
 	width: 150px;
 	height: 40px;
-	background: linear-gradient(#1d7751, #0e382c);
+	background: linear-gradient(#ff4d4d, #ff4d4d);
 	border: 2px #ff4d4d solid;
 	border-radius: 5px;
 	text-shadow: 0 0 10px rgba(255,255,255,0.3);
@@ -818,7 +818,7 @@ html, body {
 	transform: scale(1);
 	cursor: pointer;
 	-webkit-user-select: none;
-	box-shadow: 0 0 25px rgba(0,117,9,0.5);
+	box-shadow: 0 0 25px #ff4d4d;
 	overflow: hidden;
 }
 
@@ -1471,11 +1471,11 @@ div.knife {
 }
 
 ::-webkit-scrollbar-track {
-   background-color: #101619;
+   background-color: #ff4d4d;
 }
 
 ::-webkit-scrollbar-thumb {
-   background-color: #25793B;
+   background-color: #ff4d4d;
 }
 
 /*===============HELPERS===================*/
